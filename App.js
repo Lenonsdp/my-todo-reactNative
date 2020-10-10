@@ -78,7 +78,6 @@ const App: () => React$Node = () => {
 		);
 };
 
-
 const styles = StyleSheet.create({
 
 	container: {
